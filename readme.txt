@@ -3,7 +3,7 @@ git is a free sofeware
 git is design by linus
 git tracks change
 git remote is successful.
-git test branch b.
+git test stash.
 
 git dev merge --no-ff
 
