@@ -5,8 +5,6 @@ git tracks change
 git remote is successful.
 git test branch b.
 
-<<<<<<< HEAD
-git test1 冲突测试
-=======
-git test1 冲突测试
->>>>>>> test1
+git test1 冲突
+
+
