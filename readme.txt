@@ -5,6 +5,6 @@ git tracks change
 git remote is successful.
 git test branch b.
 
-git test1 冲突
+git dev merge --no-ff
 
 
